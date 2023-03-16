@@ -17,3 +17,6 @@ Lưu ý rằng chúng tôi không đầu tư nhiều vào tool, vì thế đôi 
 
 #Update
 - Hệ thống Valorant Bot có autoupdate mỗi khi có cập nhật mới từ phía người quản lý hoặc nếu có lỗi chúng tôi cũng sẽ cập nhật các phiên bản mới hơn để phù hợp với người dùng. Khi có phiên bản mới, hệ thống sẽ tự động thông báo và tải về khi người dùng sử dụng BOT.
+
+![image](https://user-images.githubusercontent.com/64177320/225742586-5c4e6701-b5a3-4d78-87ce-dbd68d94c5da.png)
+
